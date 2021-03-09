@@ -1,0 +1,18 @@
+.iconClass
+{
+    border: ridge;
+    border-color: #429ad1;
+    border-style: solid;
+    border-radius: 15px;
+    width: 100px;
+    padding: 20px;
+}
+.listClass
+{
+  list-style-type: none;
+}
+#tiles {
+flex-wrap: wrap;
+display: flex;
+flex: auto;
+}
